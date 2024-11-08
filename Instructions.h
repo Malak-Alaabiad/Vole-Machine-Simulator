@@ -2,8 +2,8 @@
 #define INSTRUCTIONS_H
 
 #include <bits/stdc++.h>
-#include "A1-Task4-S18-20230417-20230621-Register.h"
-#include "A1-Task4-S18-20230417-20230621-Memory.h"
+#include "Register.h"
+#include "Memory.h"
 
 using namespace std;
 
