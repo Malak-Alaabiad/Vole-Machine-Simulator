@@ -1,6 +1,6 @@
-#include "A1-Task4-S18-20230417-20230621-Instructions.h"
-#include "A1-Task4-S18-20230417-20230621-Register.h"
-#include "A1-Task4-S18-20230417-20230621-Memory.h"
+#include "Instructions.h"
+#include "Register.h"
+#include "Memory.h"
 
 #include <bits/stdc++.h>
 
